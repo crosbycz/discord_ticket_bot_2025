@@ -32,8 +32,11 @@ pip install chat_exporter
 
 
 ---
+## Host your bot 24/7 
+**Host your bot on #1 hosting cybrancee** <br>
+-> https://cybrancee.com/client/aff.php?aff=325 <br>
+---
 ### Support me! :3 by clicking 🍵
--> https://cybrancee.com/client/aff.php?aff=325 <br/>
 -> https://bunny.net/?ref=zxjk9bxh54 <br/>
 ->  https://datalix.eu/a/crosbyy 	<br/>
 ` My bigs contributors thx :P` 

@@ -24,6 +24,14 @@ pip install chat_exporter
 => *i write the notes for codes the [STYLING] tags is u can customize the text in the script section* <br/>
 
 ---
+## How to run bot? ❔
+->  go to discord developer portal https://discord.com/developers/applications/ <br>
+-> Create Application <br>
+-> then generete token in bot <br>
+-> then in `.env`  file insert the token in to ` BOT_TOKEN=ENTER_HERE_YOUR_BOT_TOKEN`  delete the text `ENTER_HERE_YOUR_BOT_TOKEN` and enter your bot `token` <br>
+
+
+---
 ### Support me! :3 by clicking 🍵
 -> https://cybrancee.com/client/aff.php?aff=325 <br/>
 -> https://bunny.net/?ref=zxjk9bxh54 <br/>

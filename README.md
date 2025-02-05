@@ -25,9 +25,10 @@ pip install chat_exporter
 
 ---
 ### Support me! :3 by clicking 🍵
-https://cybrancee.com/client/aff.php?aff=325
-https://bunny.net/?ref=zxjk9bxh54
-https://datalix.eu/a/crosbyy 	
+-> https://cybrancee.com/client/aff.php?aff=325 <br/>
+-> https://bunny.net/?ref=zxjk9bxh54 <br/>
+->  https://datalix.eu/a/crosbyy 	<br/>
+` My bigs contributors thx :P` 
 
  ---
  In this script been used chat_exporter contributor of project.
